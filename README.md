@@ -1,6 +1,3 @@
-# Analise_dados_de_Pacientes
-Análise Exploratória e Descritiva de Dados de Pacientes.
-
 # Análise Exploratória e Descritiva de Dados de Pacientes.
 
 ## No Estudo de Caso foram utilizadas:
