@@ -2,6 +2,8 @@
 
 ## No Estudo de Caso foram utilizadas:
 
+Dados Fictícios, objetivo apenas para treino e estudo.
+
 Python
 
 Bibliotecas:  Numpy, Pandas, Statistics e Seaborn
